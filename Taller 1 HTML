@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>Riesgos laborales. Kath</title>
+</head>
+
+<body bgcolor="beige" text= "black"> 
+
+<img src="f.png" width= "150" height= 200>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;<img src="menu/prevencion.png">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;
+<img src="menu/riesgos.png">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;<img src="menu/preguntas.png">
+
+<h1> <p><font face="arial"><strong>Bienvenidos! En esta pagina web encontraras las definiciones de riesgos laborales, como prevenir y tomar acciones correctivas para evitar los incidentes y accidentes laborales </strong> <p></h1>
+
+<h2> <font color="red">¿ QUE SON LOS RIESGOS LABORALES? </h2>
+<p> <font color="black"> En este sentido, cuando el trabajo es un riesgo se conoce como riesgo laboral, es decir, todo aquello que expone al trabajador ante un factor o un proceso peligroso en el trabajo y que le pueda causar una lesión o enfermedad.
+
+Además, los accidentes de trabajo y las enfermedades profesionales tienen grandes repercusiones en las personas y en sus familias, no sólo desde el punto de vista económico, sino también en lo que respecta a su bienestar físico y emocional a corto y a largo plazo. También puede tener efectos importantes en las empresas, afectando a su productividad, dañando su reputación o poniendo trabas a su competitividad.
+
+Teniendo en cuenta la definición de la Organización Mundial de Salud (OMS), la salud ocupacional es una actividad multidisciplinaria dirigida a promover y proteger la salud de los trabajadores a través de la prevención y el control de enfermedades y accidentes, y la eliminación de los factores y condiciones que ponen en peligro la salud y la seguridad en el trabajo.
+
+También procura generar trabajo seguro y sano, así como buenos ambientes de trabajo realzando el bienestar físico, mental y social.
+
+Así, la salud ocupacional no se limita a cuidar únicamente las condiciones físicas del trabajador, sino también se ocupa de las psicológicas.</p>
+ <center><img src="imagen.jpg" width= "350" height= 200>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img src="imagen..jpg" width= "350"></center><br>
+
+<h3><font color="red"> A CONTINUACIÓN SE NOMBRAN LOS DIFERENTES RIESGO LABORALES: </h3>
+<ol><font color="black">
+<li>Locativos</li> 
+<li>Ergonomicos</li> 
+<li>Mecanicos</li> 
+<li>Quimicos</li> 
+<li>Fisicoquimicos</li> 
+<li>Psicosociales</li> 
+<li>Electricos</li> 
+</ol><br>
+
+<h4><font color="black">ENCUESTA SOBRE AUTOCUIDADO</h4>
+<p>Esta se realiza con tal de darnos a conocer principalmente si conoce y tiene encuenta estos riesgos laborales y que hace usted para mantener una prevencion ante estos durante su jornada laboral.</p>
+<p>Muchas gracias por su participacion</p>
+<form action="/action_page.php">
+<label for="nombre y apellido"><strong>Ingrese su nombre y apellido:<strong></label>
+<input type= "text" placeholder="Escribe tu nombre y apellido" id="nombre y apellido"><br><br>
+<label for="email"><strong>Escribe tu email:<strong></label>
+<input type= "email" placeholder="Escribe tu email"><br><br>
+<p> Elige los riesgos a los que crees estar expuesto en tu area laboral</p>
+<input type= "checkbox" placeholder="Elige el riesgo al que creas estes expuesto">Locativos
+<input type= "checkbox" placeholder="Elige el riesgo al que creas estes expuesto">Ergonomico
+<input type= "checkbox" placeholder="Elige el riesgo al que creas estes expuesto">Mecanicos
+<input type= "checkbox" placeholder="Elige el riesgo al que creas estes expuesto">Quimicos
+<input type= "checkbox" placeholder="Elige el riesgo al que creas estes expuesto">Fisicoquimicos
+<input type= "checkbox" placeholder="Elige el riesgo al que creas estes expuesto">Psicosociales
+<input type= "checkbox" placeholder="Elige el riesgo al que creas estes expuesto">Electricos <br><br>
+<p> Elige las acciones de autocuidado que practicas</p>
+<input type= "checkbox" > Buena alimentacion
+<input type= "checkbox" > Realizo deporte
+<input type= "checkbox" > Realizo pausas durante el trabajo
+<input type= "checkbox" > Consumo mucha agua
+<input type= "checkbox" > No fumo
+<input type= "checkbox" > Tengo una buena higiene (Lavado de manos y demás)<br><br><br>
+<input type= "text" placeholder="otra" <br><br><br><br>
+
+<input type= "button" value="Enviar"><br><br><br>
+
+<p>Pagina de referencias</p>
+
+<a href="https://www.iep-edu.com.co/el-riesgo-en-salud-ocupacional-definicion-y-tipos/#:~:text=%C2%BFQu%C3%A9%20es%20un%20riesgo%20laboral,causar%20una%20lesi%C3%B3n%20o%20enfermedad.">El riesgo en salud ocupacional</a><br>
+<a href="https://www.segurosbolivar.com/blog/proteccion-arl/todo-lo-que-debe-saber-sobre-el-sistema-general-de-riesgos-laborales/">Riesgos laborales,seguros Bolivar.</a>
+
+</form>
+
+</body>
+</html>
